@@ -8,7 +8,7 @@ function App() {
    <>
    <Router>
    <Switch>
-       <Route exact path="/" component={ItemList} />
+       <Route  path="/cliffexAssignment_checkbox" component={ItemList} />
        <Route path="/favourites" component={Favourites} />
      </Switch>
    </Router>
