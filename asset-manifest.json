@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cliffexAssignment_checkbox/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/cliffexAssignment_checkbox/static/js/main.438991f8.chunk.js",
-    "main.js.map": "/cliffexAssignment_checkbox/static/js/main.438991f8.chunk.js.map",
+    "main.js": "/cliffexAssignment_checkbox/static/js/main.b2c80b64.chunk.js",
+    "main.js.map": "/cliffexAssignment_checkbox/static/js/main.b2c80b64.chunk.js.map",
     "runtime-main.js": "/cliffexAssignment_checkbox/static/js/runtime-main.1f160a2b.js",
     "runtime-main.js.map": "/cliffexAssignment_checkbox/static/js/runtime-main.1f160a2b.js.map",
     "static/js/2.55247519.chunk.js": "/cliffexAssignment_checkbox/static/js/2.55247519.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1f160a2b.js",
     "static/js/2.55247519.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.438991f8.chunk.js"
+    "static/js/main.b2c80b64.chunk.js"
   ]
 }
